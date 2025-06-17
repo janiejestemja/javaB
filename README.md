@@ -22,6 +22,6 @@ Basic Java file I/O.
 
 ## jast
 ---
-CLI integration of Java unit tests with Junit5 command.
+CLI integration of Java unit tests with Junit5.
 
 *Section yet to be written...*
