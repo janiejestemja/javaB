@@ -14,10 +14,14 @@ Simple Java http client for communication with flask API endpoint.
 
 ## cliKit
 ---
-Commandline tool for Java development (bash script).
+Command line tool for Java development (bash script).
 
 ## fileIO
 ---
 Basic Java file I/O.
+
+## jast
+---
+CLI integration of Java unit tests with Junit5 command.
 
 *Section yet to be written...*
